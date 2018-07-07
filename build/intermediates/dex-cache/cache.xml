@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_03b0362b123fd35cd02b164dd231c0ec78a7609a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_ac2d434134a29a53c88e1074b51cbb6770d6ad70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sonatest\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_fe965bfe9420bf54a1682f15adb35e978c29e975\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_a6e7dc0c68d3a702bbe51912f11c923e1aaac3eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_345e053926df5674e8d011e9045c55c661e79c2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_d45f82b7008caae9c46d36845862754d4c286ed9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_332596e5313be11ed7dfa0e1695354d64b9c6d6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\libs\GraphView-4.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3626a38455159707e355da96a61e598fbbc049e9">
+        <dex dex="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\transforms\dex\debug\folders\1000\2\GraphView-4.2.1_f4008cdb9b83487c3cf9ec3f98feb0a69957eb51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_ee204adf3a79e0df038e7ceccb3ef52d51de5f93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_a41eae264fc240e6840b847b3845eaad36ab7c16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49ed24e3e2dbbb3720d0178e989b46ed6594b26f">
+        <dex dex="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_eee40f2aaa50ff56203948bac84051edb2811882\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_9c02bc6f86af63f5ac0464b8c04f7070411bfe20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1e370283f017c8252697e629dc39a65b7831513">
+        <dex dex="C:\Users\Sonatest\AndroidStudioProjects\ULTS100\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d0eab70badf3a064bf2d7f907be162ea533707ec\classes.dex" />
+    </item>
+
+</items>

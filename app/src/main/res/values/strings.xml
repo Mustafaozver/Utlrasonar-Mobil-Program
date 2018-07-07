@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">ULTS100</string>
+    <string name="draw_button_text">Grafik Çizdirme</string>
+    <string name="bConnect_text">BLUETOOTH BAĞLANTISI</string>
+    <string name="bDisconnect_text">BAĞLANTIYI KES</string>
+    <string name="led_things_text">LED İşleri</string>
+    <string name="received_info_text">Alınan Bilgi Ekranı</string>
+    <string name="bluetooth_device_tv_text">Bluetooth Cihaz Listesi</string>
+    <string name="btnOnOff_text">BLUETOOTH AÇ/KAPA</string>
+    <string name="btnFindUD_text">CİHAZ ARA</string>
+    <string name="btnStartCon_text">BAĞLANTI BAŞLAT</string>
+    <string name="attention_text">Bir bağlantı başlatmadan önce bağlanılacak cihaza bir kere dokunun. Daha sonra \'BAĞLANTI BAŞLAT\'A basın.</string>
+    <string name="board_settings_text">İşlemler</string>
+    <string name="bConfig_text">Ayarları Güncelle</string>
+    <string name="bDrawData_text">START DRAW</string>
+    <string name="left_shift_text"><![CDATA[<<]]></string>
+
+    <string-array name="SPulseFreq_array">
+        <item>10</item>
+        <item>5</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0,5</item>
+    </string-array>
+
+    <string-array name="SRectifier_array">
+        <item>Full Wave Rectify</item>
+        <item>Negative Half Wave Rectify</item>
+        <item>Positive Half Wave Rectify</item>
+        <item>No Rectifier</item>
+    </string-array>
+
+    <string-array name="STrigger_array">
+        <item>EXT</item>
+        <item>INT</item>
+    </string-array>
+
+    <string-array name="SPulseOutChannel_array">
+        <item>Pulse Channel A</item>
+        <item>Pulse Channel B</item>
+    </string-array>
+
+    <string-array name="SReadChannelSel_array">
+        <item>Read Channel A</item>
+        <item>Read Channel B</item>
+    </string-array>
+
+    <string-array name="SChannelSet_array">
+        <item>AvB</item>
+        <item>Read</item>
+        <item>Pulsed Read</item>
+    </string-array>
+
+    <string-array name="SFrequncySet_array">
+        <item>100</item>
+        <item>50</item>
+        <item>25</item>
+        <item>12,5</item>
+        <item>6,25</item>
+        <item>3,13</item>
+        <item>1,56</item>
+        <item>ADC durdur</item>
+    </string-array>
+
+    <string-array name="SLNPGain_array">
+        <item>3 dB</item>
+        <item>12 dB</item>
+        <item>18 dB</item>
+        <item>22 dB</item>
+        <item>PDL</item>
+        <item>PDALL</item>
+    </string-array>
+
+    <string-array name="SChannelBitGain_array">
+        <item>0db</item>
+        <item>6db</item>
+        <item>12db</item>
+    </string-array>
+
+    <string-array name="SUltrasonikYontem_array">
+        <item>TTU veya Dual Element</item>
+        <item>Pulse Echo</item>
+    </string-array>
+
+</resources>

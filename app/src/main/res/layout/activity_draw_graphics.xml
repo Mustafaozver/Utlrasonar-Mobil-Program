@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_draw_graphics"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    android:orientation="horizontal">
+
+
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/graph"
+        android:layout_width="500dp"
+        android:layout_height="match_parent" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/graph"
+        android:layout_toRightOf="@+id/graph">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/bDrawData"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bDrawData_text" />
+
+            <Button
+                android:id="@+id/bRecFragment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="RECORD" />
+
+            <Button
+                android:id="@+id/bSamplingFreqFragment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ADC FREQ" />
+
+            <Button
+                android:id="@+id/bGainFragment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GAIN" />
+
+            <Button
+                android:id="@+id/bGConfig"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Gate ConfIg" />
+
+            <Button
+                android:id="@+id/bCalib"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CalIbre" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/scrollView2"
+        android:layout_toStartOf="@+id/scrollView2" />
+
+    <FrameLayout
+        android:id="@+id/fragment_container_GC"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toLeftOf="@+id/scrollView2"
+        android:layout_toStartOf="@+id/scrollView2" />
+
+    <TextView
+        android:id="@+id/tVDistance"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/fragment_container"
+        android:layout_marginTop="5dp"
+        android:layout_toLeftOf="@+id/scrollView2"
+        android:layout_toStartOf="@+id/scrollView2"
+        android:background="@android:drawable/dialog_holo_light_frame" />
+
+
+</RelativeLayout>
